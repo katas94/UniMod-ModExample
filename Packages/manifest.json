@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+    "com.katas.host-example": "https://github.com/katas94/UniMod-HostExample.git?path=Packages/com.katas.host-example",
     "com.katas.unimod": "https://github.com/katas94/UniMod.git",
     "com.unity.collab-proxy": "1.17.6",
     "com.unity.feature.development": "1.0.1",

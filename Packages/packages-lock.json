@@ -7,6 +7,13 @@
       "dependencies": {},
       "hash": "c7eedf85c79e2ce06658c8060ca38a282f2ca7ab"
     },
+    "com.katas.host-example": {
+      "version": "https://github.com/katas94/UniMod-HostExample.git?path=Packages/com.katas.host-example",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "10c8740e64ffeb258e2be01dbb12b947aa1db337"
+    },
     "com.katas.unimod": {
       "version": "https://github.com/katas94/UniMod.git",
       "depth": 0,

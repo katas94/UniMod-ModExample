@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af3c8c67bf7c5324ab47b352fd5a0b00, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  linkedEmbeddedConfig: {fileID: 0}
+  modId: com.katas.unimod.mod-example
+  modVersion: 1.0.0
+  displayName: Mod Example
+  description: A mod example for learning how to use UniMod
+  thumbnail: {fileID: 0}
+  startup: {fileID: 11400000, guid: 520b9f058a4778643bae4200ec027459, type: 2}
+  dependencies: []
+  appId: com.katas.unimod.host-example
+  appVersion: 1.0.0
+  addressableGroups:
+  - {fileID: 11400000, guid: de96dae314768e44a855a5962c32b716, type: 2}
+  assemblyDefinitions:
+    includeAssetsFolder: 0
+    folderIncludes: []
+    folderExcludes: []
+    assetIncludes:
+    - {fileID: 5897886265953266890, guid: e6c7a31fa9ad33c41b9805f15364606d, type: 3}
+    assetExcludes: []
+  managedPlugins:
+    includeAssetsFolder: 0
+    folderIncludes: []
+    folderExcludes: []
+    assetIncludes: []
+    assetExcludes: []
+  builder: {fileID: 11400000, guid: 9a29f562c8cf66e45a7b14fe8d2ea19b, type: 2}
